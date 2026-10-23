@@ -13,7 +13,6 @@ lancement, Windows peut donc afficher « Windows a protégé votre ordinateur »
 
 Windows ne le redemandera plus pour ce fichier.
 
-![Avertissement Windows au premier lancement]
 <img width="512" height="250" alt="image" src="https://github.com/user-attachments/assets/91c5fcc0-36ad-4b8d-b7ce-7af1cf8f8c64" />
 
 
