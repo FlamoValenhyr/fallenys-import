@@ -1,4 +1,4 @@
-<img width="512" height="250" alt="image" src="https://github.com/user-attachments/assets/87ec2469-2093-49d9-b651-9efb235faacd" />## Fallenys Import
+## Fallenys Import
 
 Outil Windows de la guilde Fallenys : après une partie personnalisée, il lit la partie dans ton client League of Legends
 (lecture seule) et l'envoie sur https://fallenys.valenhyr.fr. Ton code personnel se génère sur le site, page Historique.
