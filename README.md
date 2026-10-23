@@ -1,4 +1,4 @@
-## Fallenys Import
+<img width="512" height="250" alt="image" src="https://github.com/user-attachments/assets/87ec2469-2093-49d9-b651-9efb235faacd" />## Fallenys Import
 
 Outil Windows de la guilde Fallenys : après une partie personnalisée, il lit la partie dans ton client League of Legends
 (lecture seule) et l'envoie sur https://fallenys.valenhyr.fr. Ton code personnel se génère sur le site, page Historique.
@@ -14,7 +14,8 @@ lancement, Windows peut donc afficher « Windows a protégé votre ordinateur »
 Windows ne le redemandera plus pour ce fichier.
 
 ![Avertissement Windows au premier lancement]
-Faire plus de détail et accepter
+<img width="512" height="250" alt="image" src="https://github.com/user-attachments/assets/91c5fcc0-36ad-4b8d-b7ce-7af1cf8f8c64" />
+
 
 ### Utilisation
 
